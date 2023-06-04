@@ -1,0 +1,6 @@
+.cache
+.zip
+*~
+recentf
+*.elc
+*eln*
