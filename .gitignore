@@ -4,3 +4,6 @@
 recentf
 *.elc
 *eln*
+.lsp-session*
+.mc-lists.el
+package-quickstart.el
